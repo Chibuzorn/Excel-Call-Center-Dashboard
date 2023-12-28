@@ -14,3 +14,5 @@ Excel
 
  ## Dashboard
  <img width="959" alt="EXCEL DASHBOARD" src="https://github.com/Chibuzorn/Excel-Call-Center-Dashboard/assets/150259239/157dea45-bdf5-4d66-ab3e-7f5a52c5784c">
+ 
+**Note:** When the slicers report connections, it can be used to see the different insights according to how it is filtered within the slicer in the dashboard.
