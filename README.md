@@ -1,5 +1,5 @@
 # Excel-Call-Center-Dashboard
-This is a call center dashboard created with data from October 2020. It has over 30,000 rows of data.
+This is a call center dashboard created with data from October 2020. 
 ## Project Overview
 This project is basically about information visualization of the data sets after a little bit of cleaning to be able to see valuable insights of the data.
 ## Tool Used
